@@ -3,5 +3,5 @@
 ### Uma barra de pesquisa dinamica que se expande ao passar o mouse
 
 <p align="center">
-    <img width="450" src="/assets/barra-de-pesquisa.gif">
+    <img width="450" src="./assets/barra-pesquisa.gif">
 </p>
